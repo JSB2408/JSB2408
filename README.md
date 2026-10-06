@@ -223,14 +223,6 @@ Interactive business intelligence dashboard for analyzing Uber ride performance 
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JSB2408&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 
