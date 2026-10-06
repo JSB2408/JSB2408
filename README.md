@@ -233,38 +233,6 @@ Interactive business intelligence dashboard for analyzing Uber ride performance 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JSB2408&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JSB2408&bg_color=0f172a&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🎯 2026 Focus
-
-```text
-Machine Learning       ███████████████████░  95%
-Generative AI          ████████████████░░░░  80%
-RAG                    ███████████████░░░░░  75%
-LangChain              █████████████░░░░░░░  65%
-LangGraph              ███████████░░░░░░░░░  55%
-AI Agents              ██████████░░░░░░░░░░  50%
-```
-
-> **The goal:** Move from building individual ML models to building complete, production-ready AI systems.
 
 ---
 
