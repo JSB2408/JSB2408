@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/JSB2408">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+GenAI+Enthusiast;Building+Intelligent+AI+Systems;Exploring+RAG+%7C+LangChain+%7C+LangGraph;Turning+Data+into+Actionable+Insights;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+GenAI+Enthusiast;Building+Intelligent+AI+Systems;Turning+Data+into+Actionable+Insights;Always+Learning.+Always+Building." alt="Typing SVG" />
 </a>
 
 <br><br>
